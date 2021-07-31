@@ -1,2 +1,2 @@
 # Data-Scraping
-Repo for Power BI projects
+Repo for Web scraping projects
